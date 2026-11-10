@@ -1,0 +1,300 @@
+{
+ "at": "2026-11-10T13:34:42+00:00",
+ "apply": true,
+ "rows": [
+  {
+   "date": "2026-11-11",
+   "slot": "am",
+   "label": "Palavras 01 카페 1/2",
+   "key": "palavras_001",
+   "at": "2026-11-11T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-ee8fe6a7.jpg",
+    "02-96ec8eb1.jpg",
+    "03-1a1f165e.jpg",
+    "04-0fa0aaab.jpg",
+    "05-247fdd7e.jpg",
+    "06-ea4e3d5f.jpg",
+    "07-d02f42a2.jpg",
+    "08-7ca70450.jpg"
+   ],
+   "wp": "글 2450(1편 · 이미 공개)"
+  },
+  {
+   "date": "2026-11-11",
+   "slot": "pm",
+   "label": "Palavras 01 카페 2/2",
+   "key": "palavras_001_2",
+   "at": "2026-11-12T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-658a75e5.jpg",
+    "02-57de3144.jpg",
+    "03-52325f3f.jpg",
+    "04-605b7d7e.jpg",
+    "05-178a99bb.jpg",
+    "06-326072bd.jpg",
+    "07-769a7fd1.jpg",
+    "08-b9de6599.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-11-12",
+   "slot": "am",
+   "label": "Palavras 02 편의점 1/2",
+   "key": "palavras_002",
+   "at": "2026-11-12T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-a493f7e0.jpg",
+    "02-a0e15782.jpg",
+    "03-8cd76ba2.jpg",
+    "04-754e6680.jpg",
+    "05-3aa4974e.jpg",
+    "06-069e5daf.jpg",
+    "07-9710fa1c.jpg",
+    "08-5b8e5db3.jpg"
+   ],
+   "wp": 2504
+  },
+  {
+   "date": "2026-11-12",
+   "slot": "pm",
+   "label": "Palavras 02 편의점 2/2",
+   "key": "palavras_002_2",
+   "at": "2026-11-13T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-e0fecece.jpg",
+    "02-5b6f0f91.jpg",
+    "03-e77739a3.jpg",
+    "04-15fdb885.jpg",
+    "05-5358b0f4.jpg",
+    "06-d3087678.jpg",
+    "07-f94952ea.jpg",
+    "08-4aafe48d.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-11-13",
+   "slot": "am",
+   "label": "Palavras 03 공항 1/2",
+   "key": "palavras_003",
+   "at": "2026-11-13T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-79788198.jpg",
+    "02-a7b4d557.jpg",
+    "03-fdbc7ff3.jpg",
+    "04-1d3309e5.jpg",
+    "05-571b5c87.jpg",
+    "06-8ab6447c.jpg",
+    "07-6908efbc.jpg",
+    "08-06445d95.jpg"
+   ],
+   "wp": 2531
+  },
+  {
+   "date": "2026-11-13",
+   "slot": "pm",
+   "label": "Palavras 03 공항 2/2",
+   "key": "palavras_003_2",
+   "at": "2026-11-14T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-cb0e909f.jpg",
+    "02-68601e13.jpg",
+    "03-5ddf6fb2.jpg",
+    "04-d701a5c9.jpg",
+    "05-a33a3216.jpg",
+    "06-74e66782.jpg",
+    "07-99abb644.jpg",
+    "08-347c029d.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-11-14",
+   "slot": "am",
+   "label": "Palavras 04 지하철 1/2",
+   "key": "palavras_004",
+   "at": "2026-11-14T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-a9dbcad2.jpg",
+    "02-cdc1b9ae.jpg",
+    "03-8143b254.jpg",
+    "04-2b74c75e.jpg",
+    "05-b8b2288f.jpg",
+    "06-0c99afbe.jpg",
+    "07-be7b4ce2.jpg",
+    "08-a8ced3be.jpg"
+   ],
+   "wp": 2558
+  },
+  {
+   "date": "2026-11-14",
+   "slot": "pm",
+   "label": "Palavras 04 지하철 2/2",
+   "key": "palavras_004_2",
+   "at": "2026-11-15T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-2cdac7eb.jpg",
+    "02-7d9921b5.jpg",
+    "03-9f57caf7.jpg",
+    "04-59381307.jpg",
+    "05-ea9a32fa.jpg",
+    "06-9ddffa3f.jpg",
+    "07-e1f97495.jpg",
+    "08-9c51e390.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-11-15",
+   "slot": "am",
+   "label": "Palavras revisão 01 1/2",
+   "key": "palavras_rev01",
+   "at": "2026-11-15T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-92876bb0.jpg",
+    "02-1950e82a.jpg",
+    "03-6ecaf637.jpg",
+    "04-0b52e3f4.jpg",
+    "05-13f8681b.jpg",
+    "06-3cef19a6.jpg",
+    "07-7ff3995b.jpg",
+    "08-8117da05.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-11-15",
+   "slot": "pm",
+   "label": "Palavras revisão 01 2/2",
+   "key": "palavras_rev01_2",
+   "at": "2026-11-16T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-e21222b9.jpg",
+    "02-4b98e86f.jpg",
+    "03-5f6fb966.jpg",
+    "04-3d5d5c30.jpg",
+    "05-27fa37b0.jpg",
+    "06-62bc6c24.jpg",
+    "07-27d20639.jpg",
+    "08-4616c50e.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-11-16",
+   "slot": "am",
+   "label": "Palavras 05 숙소 1/2",
+   "key": "palavras_005",
+   "at": "2026-11-16T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-a4edbfc6.jpg",
+    "02-81c7b5d9.jpg",
+    "03-209001dd.jpg",
+    "04-ea113b76.jpg",
+    "05-878e8290.jpg",
+    "06-6bff054f.jpg",
+    "07-5ac2afbe.jpg",
+    "08-800f80b5.jpg"
+   ],
+   "wp": 2585
+  },
+  {
+   "date": "2026-11-16",
+   "slot": "pm",
+   "label": "Palavras 05 숙소 2/2",
+   "key": "palavras_005_2",
+   "at": "2026-11-17T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-d516bf2c.jpg",
+    "02-273a98fb.jpg",
+    "03-f207180e.jpg",
+    "04-1ae93bba.jpg",
+    "05-95625427.jpg",
+    "06-1e16796a.jpg",
+    "07-6d9f0fb0.jpg",
+    "08-4a618922.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-11-17",
+   "slot": "am",
+   "label": "Palavras 06 굿즈 1/2",
+   "key": "palavras_006",
+   "at": "2026-11-17T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-48c514ba.jpg",
+    "02-4ebfd61b.jpg",
+    "03-f9415289.jpg",
+    "04-fc22f7f7.jpg",
+    "05-3541393a.jpg",
+    "06-7634335e.jpg",
+    "07-c662b5a4.jpg",
+    "08-a0234542.jpg"
+   ],
+   "wp": 2612
+  },
+  {
+   "date": "2026-11-17",
+   "slot": "pm",
+   "label": "Palavras 06 굿즈 2/2",
+   "key": "palavras_006_2",
+   "at": "2026-11-18T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-2d53d4e9.jpg",
+    "02-053285ab.jpg",
+    "03-e2ab70c9.jpg",
+    "04-d9ec9182.jpg",
+    "05-7799f965.jpg",
+    "06-b8889b89.jpg",
+    "07-43f7d47f.jpg",
+    "08-d9fb92a5.jpg"
+   ],
+   "wp": "—"
+  }
+ ]
+}
