@@ -1,5 +1,5 @@
 {
- "at": "2026-11-11T02:17:10+00:00",
+ "at": "2026-11-11T04:52:16+00:00",
  "apply": true,
  "rows": [
   {
@@ -293,6 +293,48 @@
     "06-1ea249cd.jpg",
     "07-7bcbe0e1.jpg",
     "08-1347d48d.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-11-18",
+   "slot": "am",
+   "label": "Palavras 07 분식 1/2",
+   "key": "palavras_007",
+   "at": "2026-11-18T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-ce1a424f.jpg",
+    "02-3bed3a1b.jpg",
+    "03-98091607.jpg",
+    "04-9ac06227.jpg",
+    "05-76c9c8c0.jpg",
+    "06-833810a7.jpg",
+    "07-84458991.jpg",
+    "08-fdbc8b72.jpg"
+   ],
+   "wp": 2645
+  },
+  {
+   "date": "2026-11-18",
+   "slot": "pm",
+   "label": "Palavras 07 분식 2/2",
+   "key": "palavras_007_2",
+   "at": "2026-11-19T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-4a5daff8.jpg",
+    "02-d029a3da.jpg",
+    "03-a30abd71.jpg",
+    "04-3423569b.jpg",
+    "05-03286451.jpg",
+    "06-36bbb9fb.jpg",
+    "07-2a985b93.jpg",
+    "08-619084ce.jpg"
    ],
    "wp": "—"
   }
