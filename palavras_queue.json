@@ -1,5 +1,5 @@
 {
- "at": "2026-11-11T04:52:16+00:00",
+ "at": "2026-11-12T01:11:39+00:00",
  "apply": true,
  "rows": [
   {
@@ -8,20 +8,7 @@
    "label": "Palavras 01 카페 1/2",
    "key": "palavras_001",
    "at": "2026-11-11T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-d81f60bd.jpg",
-    "02-3ae4ec21.jpg",
-    "03-29021ff6.jpg",
-    "04-dbb9c400.jpg",
-    "05-002791f5.jpg",
-    "06-edfd4ac2.jpg",
-    "07-719bbe2b.jpg",
-    "08-9a123d86.jpg"
-   ],
-   "wp": "글 2450(1편 · 이미 공개)"
+   "status": "지남"
   },
   {
    "date": "2026-11-11",
@@ -29,20 +16,7 @@
    "label": "Palavras 01 카페 2/2",
    "key": "palavras_001_2",
    "at": "2026-11-12T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-4a829790.jpg",
-    "02-0c876507.jpg",
-    "03-3aa5347b.jpg",
-    "04-3acf85b4.jpg",
-    "05-ed6ac5f0.jpg",
-    "06-3eafa206.jpg",
-    "07-cdaaee3f.jpg",
-    "08-63206f5e.jpg"
-   ],
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-12",
@@ -92,7 +66,7 @@
    "label": "Palavras 03 공항 1/2",
    "key": "palavras_003",
    "at": "2026-11-13T15:30:00Z",
-   "status": "ready",
+   "status": "error",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -105,7 +79,9 @@
     "07-0e844d07.jpg",
     "08-62cdfbcf.jpg"
    ],
-   "wp": 2531
+   "missing": [
+    "WordPressError: GET /wp/v2/posts: 연결 실패 (ConnectionError)"
+   ]
   },
   {
    "date": "2026-11-13",
@@ -134,7 +110,7 @@
    "label": "Palavras 04 지하철 1/2",
    "key": "palavras_004",
    "at": "2026-11-14T15:30:00Z",
-   "status": "ready",
+   "status": "error",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -147,7 +123,9 @@
     "07-868ca9e5.jpg",
     "08-10a425a9.jpg"
    ],
-   "wp": 2558
+   "missing": [
+    "WordPressError: GET /wp/v2/posts: 연결 실패 (ConnectionError)"
+   ]
   },
   {
    "date": "2026-11-14",
@@ -218,7 +196,7 @@
    "label": "Palavras 05 숙소 1/2",
    "key": "palavras_005",
    "at": "2026-11-16T15:30:00Z",
-   "status": "ready",
+   "status": "error",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -231,7 +209,9 @@
     "07-1d27ccf6.jpg",
     "08-3f890474.jpg"
    ],
-   "wp": 2585
+   "missing": [
+    "WordPressError: GET /wp/v2/posts: 연결 실패 (ConnectionError)"
+   ]
   },
   {
    "date": "2026-11-16",
@@ -260,7 +240,7 @@
    "label": "Palavras 06 굿즈 1/2",
    "key": "palavras_006",
    "at": "2026-11-17T15:30:00Z",
-   "status": "ready",
+   "status": "error",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -273,7 +253,9 @@
     "07-e0f390f1.jpg",
     "08-09ede9fc.jpg"
    ],
-   "wp": 2612
+   "missing": [
+    "WordPressError: GET /wp/v2/posts: 연결 실패 (ConnectionError)"
+   ]
   },
   {
    "date": "2026-11-17",
@@ -302,9 +284,9 @@
    "label": "Palavras 07 분식 1/2",
    "key": "palavras_007",
    "at": "2026-11-18T15:30:00Z",
-   "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "status": "error",
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-ce1a424f.jpg",
     "02-3bed3a1b.jpg",
@@ -315,7 +297,9 @@
     "07-84458991.jpg",
     "08-fdbc8b72.jpg"
    ],
-   "wp": 2645
+   "missing": [
+    "WordPressError: GET /wp/v2/posts: 연결 실패 (ConnectionError)"
+   ]
   },
   {
    "date": "2026-11-18",
@@ -324,8 +308,8 @@
    "key": "palavras_007_2",
    "at": "2026-11-19T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-4a5daff8.jpg",
     "02-d029a3da.jpg",
