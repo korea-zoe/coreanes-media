@@ -1,72 +1,14 @@
 {
- "at": "2026-11-12T01:11:39+00:00",
+ "at": "2026-11-13T07:24:25+00:00",
  "apply": true,
  "rows": [
-  {
-   "date": "2026-11-11",
-   "slot": "am",
-   "label": "Palavras 01 카페 1/2",
-   "key": "palavras_001",
-   "at": "2026-11-11T15:30:00Z",
-   "status": "지남"
-  },
-  {
-   "date": "2026-11-11",
-   "slot": "pm",
-   "label": "Palavras 01 카페 2/2",
-   "key": "palavras_001_2",
-   "at": "2026-11-12T00:00:00Z",
-   "status": "지남"
-  },
-  {
-   "date": "2026-11-12",
-   "slot": "am",
-   "label": "Palavras 02 편의점 1/2",
-   "key": "palavras_002",
-   "at": "2026-11-12T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-c62a11a3.jpg",
-    "02-cf377e6e.jpg",
-    "03-7263c343.jpg",
-    "04-16d65f50.jpg",
-    "05-8eeca402.jpg",
-    "06-94a11081.jpg",
-    "07-7fb790a3.jpg",
-    "08-a8e18b4a.jpg"
-   ],
-   "wp": 2504
-  },
-  {
-   "date": "2026-11-12",
-   "slot": "pm",
-   "label": "Palavras 02 편의점 2/2",
-   "key": "palavras_002_2",
-   "at": "2026-11-13T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-8fd26d9a.jpg",
-    "02-37d3efbc.jpg",
-    "03-9a975a03.jpg",
-    "04-a7fc9a3b.jpg",
-    "05-b49780c3.jpg",
-    "06-343037dd.jpg",
-    "07-f601a7ec.jpg",
-    "08-0b2b83da.jpg"
-   ],
-   "wp": "—"
-  },
   {
    "date": "2026-11-13",
    "slot": "am",
    "label": "Palavras 03 공항 1/2",
    "key": "palavras_003",
    "at": "2026-11-13T15:30:00Z",
-   "status": "error",
+   "status": "ready",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -79,9 +21,7 @@
     "07-0e844d07.jpg",
     "08-62cdfbcf.jpg"
    ],
-   "missing": [
-    "WordPressError: GET /wp/v2/posts: 연결 실패 (ConnectionError)"
-   ]
+   "wp": 2531
   },
   {
    "date": "2026-11-13",
@@ -110,7 +50,7 @@
    "label": "Palavras 04 지하철 1/2",
    "key": "palavras_004",
    "at": "2026-11-14T15:30:00Z",
-   "status": "error",
+   "status": "ready",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -123,9 +63,7 @@
     "07-868ca9e5.jpg",
     "08-10a425a9.jpg"
    ],
-   "missing": [
-    "WordPressError: GET /wp/v2/posts: 연결 실패 (ConnectionError)"
-   ]
+   "wp": 2558
   },
   {
    "date": "2026-11-14",
@@ -196,7 +134,7 @@
    "label": "Palavras 05 숙소 1/2",
    "key": "palavras_005",
    "at": "2026-11-16T15:30:00Z",
-   "status": "error",
+   "status": "ready",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -209,9 +147,7 @@
     "07-1d27ccf6.jpg",
     "08-3f890474.jpg"
    ],
-   "missing": [
-    "WordPressError: GET /wp/v2/posts: 연결 실패 (ConnectionError)"
-   ]
+   "wp": 2585
   },
   {
    "date": "2026-11-16",
@@ -240,7 +176,7 @@
    "label": "Palavras 06 굿즈 1/2",
    "key": "palavras_006",
    "at": "2026-11-17T15:30:00Z",
-   "status": "error",
+   "status": "ready",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -253,9 +189,7 @@
     "07-e0f390f1.jpg",
     "08-09ede9fc.jpg"
    ],
-   "missing": [
-    "WordPressError: GET /wp/v2/posts: 연결 실패 (ConnectionError)"
-   ]
+   "wp": 2612
   },
   {
    "date": "2026-11-17",
@@ -284,7 +218,7 @@
    "label": "Palavras 07 분식 1/2",
    "key": "palavras_007",
    "at": "2026-11-18T15:30:00Z",
-   "status": "error",
+   "status": "ready",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -297,9 +231,7 @@
     "07-84458991.jpg",
     "08-fdbc8b72.jpg"
    ],
-   "missing": [
-    "WordPressError: GET /wp/v2/posts: 연결 실패 (ConnectionError)"
-   ]
+   "wp": 2645
   },
   {
    "date": "2026-11-18",
@@ -319,6 +251,90 @@
     "06-36bbb9fb.jpg",
     "07-2a985b93.jpg",
     "08-619084ce.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-11-19",
+   "slot": "am",
+   "label": "Palavras 08 화장품 1/2",
+   "key": "palavras_008",
+   "at": "2026-11-19T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-4ddf4dba.jpg",
+    "02-5215b012.jpg",
+    "03-f6d0711d.jpg",
+    "04-e51607f9.jpg",
+    "05-ce9c0468.jpg",
+    "06-af408f02.jpg",
+    "07-4b7fa027.jpg",
+    "08-7e65e2c0.jpg"
+   ],
+   "wp": 2678
+  },
+  {
+   "date": "2026-11-19",
+   "slot": "pm",
+   "label": "Palavras 08 화장품 2/2",
+   "key": "palavras_008_2",
+   "at": "2026-11-20T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-4a978aaa.jpg",
+    "02-e8955d4d.jpg",
+    "03-69adabb2.jpg",
+    "04-d43d6206.jpg",
+    "05-5436e9f6.jpg",
+    "06-f227137c.jpg",
+    "07-6c93c867.jpg",
+    "08-52c2ff26.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-11-20",
+   "slot": "am",
+   "label": "Palavras 09 동물 1/2",
+   "key": "palavras_009",
+   "at": "2026-11-20T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-76e637f2.jpg",
+    "02-0fe16eef.jpg",
+    "03-c1f76a8e.jpg",
+    "04-4d83d442.jpg",
+    "05-4ae815b2.jpg",
+    "06-59485353.jpg",
+    "07-d0c63e09.jpg",
+    "08-7f2a31bd.jpg"
+   ],
+   "wp": 2711
+  },
+  {
+   "date": "2026-11-20",
+   "slot": "pm",
+   "label": "Palavras 09 동물 2/2",
+   "key": "palavras_009_2",
+   "at": "2026-11-21T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-40167b86.jpg",
+    "02-6dd8d06d.jpg",
+    "03-f562937a.jpg",
+    "04-b25a35ea.jpg",
+    "05-13512f37.jpg",
+    "06-807a288b.jpg",
+    "07-ea985617.jpg",
+    "08-c0035768.jpg"
    ],
    "wp": "—"
   }
