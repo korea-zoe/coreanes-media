@@ -1,5 +1,5 @@
 {
- "at": "2026-11-14T12:37:26+00:00",
+ "at": "2026-11-14T12:41:17+00:00",
  "apply": true,
  "days": 30,
  "last_ready": "2026-12-14",
@@ -1242,7 +1242,7 @@
    "label": "Palavras 28 운동 1/2",
    "key": "palavras_028",
    "at": "2026-12-12T15:30:00Z",
-   "status": "error",
+   "status": "ready",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -1256,9 +1256,7 @@
     "08-f10f888e.jpg"
    ],
    "fp_same": true,
-   "missing": [
-    "FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/coreanes/coreanes/output/palavras/028/cards/01_capa.jpg'"
-   ]
+   "wp": 3338
   },
   {
    "date": "2026-12-12",
@@ -1332,7 +1330,7 @@
    "label": "Palavras 29 한강 피크닉 1/2",
    "key": "palavras_029",
    "at": "2026-12-14T15:30:00Z",
-   "status": "error",
+   "status": "ready",
    "pages": "그대로",
    "new_jpg": 0,
    "cards": [
@@ -1346,9 +1344,7 @@
     "08-62d5fa65.jpg"
    ],
    "fp_same": true,
-   "missing": [
-    "FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/coreanes/coreanes/output/palavras/029/cards/01_capa.jpg'"
-   ]
+   "wp": 3409
   },
   {
    "date": "2026-12-14",
