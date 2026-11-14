@@ -1,25 +1,9 @@
 {
- "at": "2026-11-14T01:01:17+00:00",
+ "at": "2026-11-14T12:33:23+00:00",
  "apply": true,
  "days": 30,
- "last_ready": "2026-12-13",
+ "last_ready": "2026-12-14",
  "rows": [
-  {
-   "date": "2026-11-13",
-   "slot": "am",
-   "label": "Palavras 03 공항 1/2",
-   "key": "palavras_003",
-   "at": "2026-11-13T15:30:00Z",
-   "status": "지남"
-  },
-  {
-   "date": "2026-11-13",
-   "slot": "pm",
-   "label": "Palavras 03 공항 2/2",
-   "key": "palavras_003_2",
-   "at": "2026-11-14T00:00:00Z",
-   "status": "지남"
-  },
   {
    "date": "2026-11-14",
    "slot": "am",
@@ -27,7 +11,7 @@
    "key": "palavras_004",
    "at": "2026-11-14T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-022a8793.jpg",
@@ -39,6 +23,7 @@
     "07-868ca9e5.jpg",
     "08-10a425a9.jpg"
    ],
+   "fp_same": true,
    "wp": 2558
   },
   {
@@ -48,7 +33,7 @@
    "key": "palavras_004_2",
    "at": "2026-11-15T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-4a870b2f.jpg",
@@ -60,6 +45,7 @@
     "07-66525717.jpg",
     "08-8f9cdc8b.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -69,7 +55,7 @@
    "key": "palavras_rev01",
    "at": "2026-11-15T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-a3f52640.jpg",
@@ -81,6 +67,7 @@
     "07-0322ce45.jpg",
     "08-aa8ce5ef.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -90,7 +77,7 @@
    "key": "palavras_rev01_2",
    "at": "2026-11-16T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-ec07a0ff.jpg",
@@ -102,6 +89,7 @@
     "07-9eae713e.jpg",
     "08-b3b5b3a2.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -111,7 +99,7 @@
    "key": "palavras_005",
    "at": "2026-11-16T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-37c9f8ea.jpg",
@@ -123,6 +111,7 @@
     "07-1d27ccf6.jpg",
     "08-3f890474.jpg"
    ],
+   "fp_same": true,
    "wp": 2585
   },
   {
@@ -132,7 +121,7 @@
    "key": "palavras_005_2",
    "at": "2026-11-17T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-cd3583ad.jpg",
@@ -144,6 +133,7 @@
     "07-1207d2eb.jpg",
     "08-a4d9342b.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -153,7 +143,7 @@
    "key": "palavras_006",
    "at": "2026-11-17T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-44ec906f.jpg",
@@ -165,6 +155,7 @@
     "07-e0f390f1.jpg",
     "08-09ede9fc.jpg"
    ],
+   "fp_same": true,
    "wp": 2612
   },
   {
@@ -174,7 +165,7 @@
    "key": "palavras_006_2",
    "at": "2026-11-18T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-a37dc071.jpg",
@@ -186,6 +177,7 @@
     "07-7bcbe0e1.jpg",
     "08-1347d48d.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -195,7 +187,7 @@
    "key": "palavras_007",
    "at": "2026-11-18T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-ce1a424f.jpg",
@@ -207,6 +199,7 @@
     "07-84458991.jpg",
     "08-fdbc8b72.jpg"
    ],
+   "fp_same": true,
    "wp": 2645
   },
   {
@@ -216,7 +209,7 @@
    "key": "palavras_007_2",
    "at": "2026-11-19T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-4a5daff8.jpg",
@@ -228,6 +221,7 @@
     "07-2a985b93.jpg",
     "08-619084ce.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -237,7 +231,7 @@
    "key": "palavras_008",
    "at": "2026-11-19T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-4ddf4dba.jpg",
@@ -249,6 +243,7 @@
     "07-4b7fa027.jpg",
     "08-7e65e2c0.jpg"
    ],
+   "fp_same": true,
    "wp": 2678
   },
   {
@@ -258,7 +253,7 @@
    "key": "palavras_008_2",
    "at": "2026-11-20T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-4a978aaa.jpg",
@@ -270,6 +265,7 @@
     "07-6c93c867.jpg",
     "08-52c2ff26.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -279,7 +275,7 @@
    "key": "palavras_009",
    "at": "2026-11-20T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-76e637f2.jpg",
@@ -291,6 +287,7 @@
     "07-d0c63e09.jpg",
     "08-7f2a31bd.jpg"
    ],
+   "fp_same": true,
    "wp": 2711
   },
   {
@@ -300,7 +297,7 @@
    "key": "palavras_009_2",
    "at": "2026-11-21T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-40167b86.jpg",
@@ -312,6 +309,7 @@
     "07-ea985617.jpg",
     "08-c0035768.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -321,7 +319,7 @@
    "key": "palavras_010",
    "at": "2026-11-21T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-62e7ec07.jpg",
@@ -333,6 +331,7 @@
     "07-a7d57bb7.jpg",
     "08-84c8a2ec.jpg"
    ],
+   "fp_same": true,
    "wp": 2744
   },
   {
@@ -342,7 +341,7 @@
    "key": "palavras_010_2",
    "at": "2026-11-22T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-9e40e57d.jpg",
@@ -354,6 +353,7 @@
     "07-80013501.jpg",
     "08-a8ed1fe1.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -363,7 +363,7 @@
    "key": "palavras_rev02",
    "at": "2026-11-22T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-f2337d47.jpg",
@@ -375,6 +375,7 @@
     "07-d56fee7e.jpg",
     "08-eab1dc0f.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -384,7 +385,7 @@
    "key": "palavras_rev02_2",
    "at": "2026-11-23T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-8978b84f.jpg",
@@ -396,6 +397,7 @@
     "07-3db0c010.jpg",
     "08-d909832d.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -405,7 +407,7 @@
    "key": "palavras_011",
    "at": "2026-11-23T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-14154fae.jpg",
@@ -417,6 +419,7 @@
     "07-5180b315.jpg",
     "08-6f44f56e.jpg"
    ],
+   "fp_same": true,
    "wp": 2777
   },
   {
@@ -426,7 +429,7 @@
    "key": "palavras_011_2",
    "at": "2026-11-24T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-c49b284e.jpg",
@@ -438,6 +441,7 @@
     "07-fa59eeed.jpg",
     "08-3f52f618.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -447,7 +451,7 @@
    "key": "palavras_012",
    "at": "2026-11-24T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-2267d031.jpg",
@@ -459,6 +463,7 @@
     "07-1ee38fb5.jpg",
     "08-603621a1.jpg"
    ],
+   "fp_same": true,
    "wp": 2810
   },
   {
@@ -468,7 +473,7 @@
    "key": "palavras_012_2",
    "at": "2026-11-25T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-da32ad41.jpg",
@@ -480,6 +485,7 @@
     "07-2c273e4d.jpg",
     "08-c1230cb6.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -489,7 +495,7 @@
    "key": "palavras_013",
    "at": "2026-11-25T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-3a4b1dba.jpg",
@@ -501,6 +507,7 @@
     "07-8ddc2def.jpg",
     "08-1103c5ad.jpg"
    ],
+   "fp_same": true,
    "wp": 2843
   },
   {
@@ -510,7 +517,7 @@
    "key": "palavras_013_2",
    "at": "2026-11-26T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-0045d734.jpg",
@@ -522,6 +529,7 @@
     "07-f3a479e7.jpg",
     "08-1ed210ca.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -531,7 +539,7 @@
    "key": "palavras_014",
    "at": "2026-11-26T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-9d6a338e.jpg",
@@ -543,6 +551,7 @@
     "07-1a7ccdea.jpg",
     "08-6466cf89.jpg"
    ],
+   "fp_same": true,
    "wp": 2876
   },
   {
@@ -552,7 +561,7 @@
    "key": "palavras_014_2",
    "at": "2026-11-27T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-b15f070b.jpg",
@@ -564,6 +573,7 @@
     "07-ed46438f.jpg",
     "08-455b2bd0.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -573,7 +583,7 @@
    "key": "palavras_015",
    "at": "2026-11-27T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-f02672f7.jpg",
@@ -585,6 +595,7 @@
     "07-5755cd0f.jpg",
     "08-1e39a4bd.jpg"
    ],
+   "fp_same": true,
    "wp": 2909
   },
   {
@@ -594,7 +605,7 @@
    "key": "palavras_015_2",
    "at": "2026-11-28T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-2a4058ca.jpg",
@@ -606,6 +617,7 @@
     "07-010cbfdb.jpg",
     "08-b3168b2c.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -615,7 +627,7 @@
    "key": "palavras_016",
    "at": "2026-11-28T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-5e7c68fb.jpg",
@@ -627,6 +639,7 @@
     "07-29b4f097.jpg",
     "08-d42deb86.jpg"
    ],
+   "fp_same": true,
    "wp": 2942
   },
   {
@@ -636,7 +649,7 @@
    "key": "palavras_016_2",
    "at": "2026-11-29T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-51129c49.jpg",
@@ -648,6 +661,7 @@
     "07-7af00ba8.jpg",
     "08-5781e769.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -657,7 +671,7 @@
    "key": "palavras_rev03",
    "at": "2026-11-29T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-d1f7a4ba.jpg",
@@ -669,6 +683,7 @@
     "07-338d73ed.jpg",
     "08-2b303189.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -678,7 +693,7 @@
    "key": "palavras_rev03_2",
    "at": "2026-11-30T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-3a4bb698.jpg",
@@ -690,6 +705,7 @@
     "07-338138cf.jpg",
     "08-477b6496.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -699,7 +715,7 @@
    "key": "palavras_017",
    "at": "2026-11-30T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-d0d70b59.jpg",
@@ -711,6 +727,7 @@
     "07-117854ba.jpg",
     "08-072c207c.jpg"
    ],
+   "fp_same": true,
    "wp": 2975
   },
   {
@@ -720,7 +737,7 @@
    "key": "palavras_017_2",
    "at": "2026-12-01T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-dac82b1a.jpg",
@@ -732,6 +749,7 @@
     "07-a21adf67.jpg",
     "08-a5410985.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -741,7 +759,7 @@
    "key": "palavras_018",
    "at": "2026-12-01T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-4e852344.jpg",
@@ -753,6 +771,7 @@
     "07-af9ba3ac.jpg",
     "08-bfc90ccd.jpg"
    ],
+   "fp_same": true,
    "wp": 3008
   },
   {
@@ -762,7 +781,7 @@
    "key": "palavras_018_2",
    "at": "2026-12-02T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-20ec29c2.jpg",
@@ -774,6 +793,7 @@
     "07-cb19ec60.jpg",
     "08-ae5ea122.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -783,7 +803,7 @@
    "key": "palavras_019",
    "at": "2026-12-02T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-978116e1.jpg",
@@ -795,6 +815,7 @@
     "07-6153c8fd.jpg",
     "08-b6d3fe64.jpg"
    ],
+   "fp_same": true,
    "wp": 3041
   },
   {
@@ -804,7 +825,7 @@
    "key": "palavras_019_2",
    "at": "2026-12-03T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-2ec731ce.jpg",
@@ -816,6 +837,7 @@
     "07-08285d56.jpg",
     "08-9a2f4d1b.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -825,7 +847,7 @@
    "key": "palavras_020",
    "at": "2026-12-03T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-2ca9f2cc.jpg",
@@ -837,6 +859,7 @@
     "07-1ab9b70a.jpg",
     "08-722abb59.jpg"
    ],
+   "fp_same": true,
    "wp": 3074
   },
   {
@@ -846,7 +869,7 @@
    "key": "palavras_020_2",
    "at": "2026-12-04T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-a6cad411.jpg",
@@ -858,6 +881,7 @@
     "07-befcdd0a.jpg",
     "08-e822bc30.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -867,7 +891,7 @@
    "key": "palavras_021",
    "at": "2026-12-04T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-9d6d2144.jpg",
@@ -879,6 +903,7 @@
     "07-c546c911.jpg",
     "08-52383f77.jpg"
    ],
+   "fp_same": true,
    "wp": 3107
   },
   {
@@ -888,7 +913,7 @@
    "key": "palavras_021_2",
    "at": "2026-12-05T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-4821610a.jpg",
@@ -900,6 +925,7 @@
     "07-030fe0d6.jpg",
     "08-34efd722.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -909,7 +935,7 @@
    "key": "palavras_022",
    "at": "2026-12-05T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-6c3938d2.jpg",
@@ -921,6 +947,7 @@
     "07-9f9abeab.jpg",
     "08-3f423592.jpg"
    ],
+   "fp_same": true,
    "wp": 3140
   },
   {
@@ -930,7 +957,7 @@
    "key": "palavras_022_2",
    "at": "2026-12-06T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-4f9be1a9.jpg",
@@ -942,6 +969,7 @@
     "07-5d228920.jpg",
     "08-1020af6f.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -951,7 +979,7 @@
    "key": "palavras_rev04",
    "at": "2026-12-06T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-d1b0763c.jpg",
@@ -963,6 +991,7 @@
     "07-80dbdd6c.jpg",
     "08-ea483510.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -972,7 +1001,7 @@
    "key": "palavras_rev04_2",
    "at": "2026-12-07T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-c5dea1cd.jpg",
@@ -984,6 +1013,7 @@
     "07-df33b75a.jpg",
     "08-47147545.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -993,7 +1023,7 @@
    "key": "palavras_023",
    "at": "2026-12-07T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-b4a73cd1.jpg",
@@ -1005,6 +1035,7 @@
     "07-587301a8.jpg",
     "08-304287c8.jpg"
    ],
+   "fp_same": true,
    "wp": 3173
   },
   {
@@ -1014,7 +1045,7 @@
    "key": "palavras_023_2",
    "at": "2026-12-08T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-c1fc8c48.jpg",
@@ -1026,6 +1057,7 @@
     "07-ac018154.jpg",
     "08-f8442d1f.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -1035,7 +1067,7 @@
    "key": "palavras_024",
    "at": "2026-12-08T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-0e0bd1e2.jpg",
@@ -1047,6 +1079,7 @@
     "07-8966b8a5.jpg",
     "08-bb255e58.jpg"
    ],
+   "fp_same": true,
    "wp": 3206
   },
   {
@@ -1056,7 +1089,7 @@
    "key": "palavras_024_2",
    "at": "2026-12-09T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-ac0f35ed.jpg",
@@ -1068,6 +1101,7 @@
     "07-15e4ea31.jpg",
     "08-597d1e0c.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -1077,7 +1111,7 @@
    "key": "palavras_025",
    "at": "2026-12-09T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-a34891cc.jpg",
@@ -1089,6 +1123,7 @@
     "07-1d21747e.jpg",
     "08-6384e568.jpg"
    ],
+   "fp_same": true,
    "wp": 3239
   },
   {
@@ -1098,7 +1133,7 @@
    "key": "palavras_025_2",
    "at": "2026-12-10T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-8d7aef31.jpg",
@@ -1110,6 +1145,7 @@
     "07-70b4582b.jpg",
     "08-2911dc59.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -1119,7 +1155,7 @@
    "key": "palavras_026",
    "at": "2026-12-10T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-c44fbbfd.jpg",
@@ -1131,6 +1167,7 @@
     "07-3c00cbc9.jpg",
     "08-df03e5f9.jpg"
    ],
+   "fp_same": true,
    "wp": 3272
   },
   {
@@ -1140,7 +1177,7 @@
    "key": "palavras_026_2",
    "at": "2026-12-11T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-a4fd8e2e.jpg",
@@ -1152,6 +1189,7 @@
     "07-96f14514.jpg",
     "08-9a235f91.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -1161,7 +1199,7 @@
    "key": "palavras_027",
    "at": "2026-12-11T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-aec768ac.jpg",
@@ -1173,6 +1211,7 @@
     "07-950efa35.jpg",
     "08-cf7e487b.jpg"
    ],
+   "fp_same": true,
    "wp": 3305
   },
   {
@@ -1182,7 +1221,7 @@
    "key": "palavras_027_2",
    "at": "2026-12-12T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-77019d9a.jpg",
@@ -1194,6 +1233,7 @@
     "07-11555ace.jpg",
     "08-6d50889a.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -1202,8 +1242,8 @@
    "label": "Palavras 28 운동 1/2",
    "key": "palavras_028",
    "at": "2026-12-12T15:30:00Z",
-   "status": "ready",
-   "pages": "바뀜",
+   "status": "error",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-f877ba51.jpg",
@@ -1215,7 +1255,10 @@
     "07-0d3dd8b8.jpg",
     "08-f10f888e.jpg"
    ],
-   "wp": 3338
+   "fp_same": true,
+   "missing": [
+    "FileNotFoundError: [Errno 2] No such file or directory: 'afconvert'"
+   ]
   },
   {
    "date": "2026-12-12",
@@ -1223,9 +1266,18 @@
    "label": "Palavras 28 운동 2/2",
    "key": "palavras_028_2",
    "at": "2026-12-13T00:00:00Z",
-   "status": "skipped",
-   "missing": [
-    "그림판 028-2.png 칸 경계 걸침"
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-003dadf1.jpg",
+    "02-018b358c.jpg",
+    "03-e969f7fa.jpg",
+    "04-fd084c4f.jpg",
+    "05-e14d5787.jpg",
+    "06-7d7edd6e.jpg",
+    "07-efc8d7fb.jpg",
+    "08-126d3f77.jpg"
    ],
    "wp": "—"
   },
@@ -1236,7 +1288,7 @@
    "key": "palavras_rev05",
    "at": "2026-12-13T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
+   "pages": "그대로",
    "new_jpg": 0,
    "cards": [
     "01-6ee27827.jpg",
@@ -1248,6 +1300,7 @@
     "07-96386ce4.jpg",
     "08-e05e29b4.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -1256,9 +1309,62 @@
    "label": "Palavras revisão 05 2/2",
    "key": "palavras_rev05_2",
    "at": "2026-12-14T00:00:00Z",
-   "status": "skipped",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-b6f7a03a.jpg",
+    "02-52542992.jpg",
+    "03-2156f7c0.jpg",
+    "04-58981db6.jpg",
+    "05-3a454457.jpg",
+    "06-51f0a766.jpg",
+    "07-4e8fa02f.jpg",
+    "08-3eb72121.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-12-14",
+   "slot": "am",
+   "label": "Palavras 29 한강 피크닉 1/2",
+   "key": "palavras_029",
+   "at": "2026-12-14T15:30:00Z",
+   "status": "error",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-e6a29c64.jpg",
+    "02-e188bb91.jpg",
+    "03-1eef9361.jpg",
+    "04-3d76f181.jpg",
+    "05-c9e50504.jpg",
+    "06-43dda1f8.jpg",
+    "07-8eb5d464.jpg",
+    "08-62d5fa65.jpg"
+   ],
    "missing": [
-    "그림판 028-2.png 칸 경계 걸침"
+    "FileNotFoundError: [Errno 2] No such file or directory: 'afconvert'"
+   ]
+  },
+  {
+   "date": "2026-12-14",
+   "slot": "pm",
+   "label": "Palavras 29 한강 피크닉 2/2",
+   "key": "palavras_029_2",
+   "at": "2026-12-15T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-577e1851.jpg",
+    "02-015c2e95.jpg",
+    "03-2370fb40.jpg",
+    "04-142004e9.jpg",
+    "05-378948fc.jpg",
+    "06-2ecc80cf.jpg",
+    "07-04f28553.jpg",
+    "08-f6a50e8a.jpg"
    ],
    "wp": "—"
   }
