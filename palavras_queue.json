@@ -1,5 +1,5 @@
 {
- "at": "2026-11-14T12:33:23+00:00",
+ "at": "2026-11-14T12:37:26+00:00",
  "apply": true,
  "days": 30,
  "last_ready": "2026-12-14",
@@ -1257,7 +1257,7 @@
    ],
    "fp_same": true,
    "missing": [
-    "FileNotFoundError: [Errno 2] No such file or directory: 'afconvert'"
+    "FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/coreanes/coreanes/output/palavras/028/cards/01_capa.jpg'"
    ]
   },
   {
@@ -1267,8 +1267,8 @@
    "key": "palavras_028_2",
    "at": "2026-12-13T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-003dadf1.jpg",
     "02-018b358c.jpg",
@@ -1279,6 +1279,7 @@
     "07-efc8d7fb.jpg",
     "08-126d3f77.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -1310,8 +1311,8 @@
    "key": "palavras_rev05_2",
    "at": "2026-12-14T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-b6f7a03a.jpg",
     "02-52542992.jpg",
@@ -1322,6 +1323,7 @@
     "07-4e8fa02f.jpg",
     "08-3eb72121.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   },
   {
@@ -1331,8 +1333,8 @@
    "key": "palavras_029",
    "at": "2026-12-14T15:30:00Z",
    "status": "error",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-e6a29c64.jpg",
     "02-e188bb91.jpg",
@@ -1343,8 +1345,9 @@
     "07-8eb5d464.jpg",
     "08-62d5fa65.jpg"
    ],
+   "fp_same": true,
    "missing": [
-    "FileNotFoundError: [Errno 2] No such file or directory: 'afconvert'"
+    "FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/coreanes/coreanes/output/palavras/029/cards/01_capa.jpg'"
    ]
   },
   {
@@ -1354,8 +1357,8 @@
    "key": "palavras_029_2",
    "at": "2026-12-15T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-577e1851.jpg",
     "02-015c2e95.jpg",
@@ -1366,6 +1369,7 @@
     "07-04f28553.jpg",
     "08-f6a50e8a.jpg"
    ],
+   "fp_same": true,
    "wp": "—"
   }
  ]
