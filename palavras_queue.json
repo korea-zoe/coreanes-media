@@ -1,5 +1,5 @@
 {
- "at": "2026-11-13T07:35:22+00:00",
+ "at": "2026-11-14T01:01:17+00:00",
  "apply": true,
  "days": 30,
  "last_ready": "2026-12-13",
@@ -10,20 +10,7 @@
    "label": "Palavras 03 공항 1/2",
    "key": "palavras_003",
    "at": "2026-11-13T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-31b591cd.jpg",
-    "02-68cde281.jpg",
-    "03-e25f1cd2.jpg",
-    "04-9fae0a0a.jpg",
-    "05-954d5f8c.jpg",
-    "06-21e895ea.jpg",
-    "07-0e844d07.jpg",
-    "08-62cdfbcf.jpg"
-   ],
-   "wp": 2531
+   "status": "지남"
   },
   {
    "date": "2026-11-13",
@@ -31,20 +18,7 @@
    "label": "Palavras 03 공항 2/2",
    "key": "palavras_003_2",
    "at": "2026-11-14T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-ec6e7e28.jpg",
-    "02-f316b868.jpg",
-    "03-8258a85d.jpg",
-    "04-bf708332.jpg",
-    "05-905b7418.jpg",
-    "06-f9945927.jpg",
-    "07-6995bc72.jpg",
-    "08-33b807d5.jpg"
-   ],
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-14",
@@ -53,7 +27,7 @@
    "key": "palavras_004",
    "at": "2026-11-14T15:30:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-022a8793.jpg",
@@ -74,7 +48,7 @@
    "key": "palavras_004_2",
    "at": "2026-11-15T00:00:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-4a870b2f.jpg",
@@ -95,7 +69,7 @@
    "key": "palavras_rev01",
    "at": "2026-11-15T15:30:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-a3f52640.jpg",
@@ -116,7 +90,7 @@
    "key": "palavras_rev01_2",
    "at": "2026-11-16T00:00:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-ec07a0ff.jpg",
@@ -137,7 +111,7 @@
    "key": "palavras_005",
    "at": "2026-11-16T15:30:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-37c9f8ea.jpg",
@@ -158,7 +132,7 @@
    "key": "palavras_005_2",
    "at": "2026-11-17T00:00:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-cd3583ad.jpg",
@@ -179,7 +153,7 @@
    "key": "palavras_006",
    "at": "2026-11-17T15:30:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-44ec906f.jpg",
@@ -200,7 +174,7 @@
    "key": "palavras_006_2",
    "at": "2026-11-18T00:00:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-a37dc071.jpg",
@@ -221,7 +195,7 @@
    "key": "palavras_007",
    "at": "2026-11-18T15:30:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-ce1a424f.jpg",
@@ -242,7 +216,7 @@
    "key": "palavras_007_2",
    "at": "2026-11-19T00:00:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-4a5daff8.jpg",
@@ -263,7 +237,7 @@
    "key": "palavras_008",
    "at": "2026-11-19T15:30:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-4ddf4dba.jpg",
@@ -284,7 +258,7 @@
    "key": "palavras_008_2",
    "at": "2026-11-20T00:00:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-4a978aaa.jpg",
@@ -305,7 +279,7 @@
    "key": "palavras_009",
    "at": "2026-11-20T15:30:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-76e637f2.jpg",
@@ -326,7 +300,7 @@
    "key": "palavras_009_2",
    "at": "2026-11-21T00:00:00Z",
    "status": "ready",
-   "pages": "그대로",
+   "pages": "바뀜",
    "new_jpg": 0,
    "cards": [
     "01-40167b86.jpg",
@@ -348,7 +322,7 @@
    "at": "2026-11-21T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-62e7ec07.jpg",
     "02-38b5d978.jpg",
@@ -369,7 +343,7 @@
    "at": "2026-11-22T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-9e40e57d.jpg",
     "02-f062a02a.jpg",
@@ -390,7 +364,7 @@
    "at": "2026-11-22T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-f2337d47.jpg",
     "02-c7173bbc.jpg",
@@ -411,7 +385,7 @@
    "at": "2026-11-23T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-8978b84f.jpg",
     "02-a5a18bc9.jpg",
@@ -432,7 +406,7 @@
    "at": "2026-11-23T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-14154fae.jpg",
     "02-92e51c6b.jpg",
@@ -453,7 +427,7 @@
    "at": "2026-11-24T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-c49b284e.jpg",
     "02-e8d4921f.jpg",
@@ -474,7 +448,7 @@
    "at": "2026-11-24T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-2267d031.jpg",
     "02-cf6da1c0.jpg",
@@ -495,7 +469,7 @@
    "at": "2026-11-25T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-da32ad41.jpg",
     "02-50c05bf7.jpg",
@@ -516,7 +490,7 @@
    "at": "2026-11-25T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-3a4b1dba.jpg",
     "02-44541ed4.jpg",
@@ -537,7 +511,7 @@
    "at": "2026-11-26T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-0045d734.jpg",
     "02-8179c6e7.jpg",
@@ -558,7 +532,7 @@
    "at": "2026-11-26T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-9d6a338e.jpg",
     "02-e5f560d9.jpg",
@@ -579,7 +553,7 @@
    "at": "2026-11-27T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-b15f070b.jpg",
     "02-ee0fb2c9.jpg",
@@ -600,7 +574,7 @@
    "at": "2026-11-27T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-f02672f7.jpg",
     "02-5624f92d.jpg",
@@ -621,7 +595,7 @@
    "at": "2026-11-28T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-2a4058ca.jpg",
     "02-d3f6995f.jpg",
@@ -642,7 +616,7 @@
    "at": "2026-11-28T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-5e7c68fb.jpg",
     "02-b99acccb.jpg",
@@ -663,7 +637,7 @@
    "at": "2026-11-29T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-51129c49.jpg",
     "02-06ec3c1e.jpg",
@@ -684,7 +658,7 @@
    "at": "2026-11-29T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-d1f7a4ba.jpg",
     "02-ae707224.jpg",
@@ -705,7 +679,7 @@
    "at": "2026-11-30T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-3a4bb698.jpg",
     "02-108133f5.jpg",
@@ -726,7 +700,7 @@
    "at": "2026-11-30T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-d0d70b59.jpg",
     "02-80ded318.jpg",
@@ -747,7 +721,7 @@
    "at": "2026-12-01T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-dac82b1a.jpg",
     "02-ce8fea9c.jpg",
@@ -768,7 +742,7 @@
    "at": "2026-12-01T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-4e852344.jpg",
     "02-98259d9e.jpg",
@@ -789,7 +763,7 @@
    "at": "2026-12-02T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-20ec29c2.jpg",
     "02-efa186b0.jpg",
@@ -810,7 +784,7 @@
    "at": "2026-12-02T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-978116e1.jpg",
     "02-0cdde953.jpg",
@@ -831,7 +805,7 @@
    "at": "2026-12-03T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-2ec731ce.jpg",
     "02-9cb4abaf.jpg",
@@ -852,7 +826,7 @@
    "at": "2026-12-03T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-2ca9f2cc.jpg",
     "02-bbdd2910.jpg",
@@ -873,7 +847,7 @@
    "at": "2026-12-04T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-a6cad411.jpg",
     "02-3ba6c4af.jpg",
@@ -894,7 +868,7 @@
    "at": "2026-12-04T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-9d6d2144.jpg",
     "02-9fa7fb0b.jpg",
@@ -915,7 +889,7 @@
    "at": "2026-12-05T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-4821610a.jpg",
     "02-b5ac2e76.jpg",
@@ -936,7 +910,7 @@
    "at": "2026-12-05T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-6c3938d2.jpg",
     "02-c19b7ff8.jpg",
@@ -957,7 +931,7 @@
    "at": "2026-12-06T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-4f9be1a9.jpg",
     "02-25e2e830.jpg",
@@ -978,7 +952,7 @@
    "at": "2026-12-06T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-d1b0763c.jpg",
     "02-db45baec.jpg",
@@ -999,7 +973,7 @@
    "at": "2026-12-07T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-c5dea1cd.jpg",
     "02-0f13e121.jpg",
@@ -1020,7 +994,7 @@
    "at": "2026-12-07T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-b4a73cd1.jpg",
     "02-4992f074.jpg",
@@ -1041,7 +1015,7 @@
    "at": "2026-12-08T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-c1fc8c48.jpg",
     "02-a3006b1b.jpg",
@@ -1062,7 +1036,7 @@
    "at": "2026-12-08T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-0e0bd1e2.jpg",
     "02-feb5c3c2.jpg",
@@ -1083,7 +1057,7 @@
    "at": "2026-12-09T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-ac0f35ed.jpg",
     "02-57200027.jpg",
@@ -1104,7 +1078,7 @@
    "at": "2026-12-09T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-a34891cc.jpg",
     "02-48becb6b.jpg",
@@ -1125,7 +1099,7 @@
    "at": "2026-12-10T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-8d7aef31.jpg",
     "02-e0c17cd2.jpg",
@@ -1146,7 +1120,7 @@
    "at": "2026-12-10T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-c44fbbfd.jpg",
     "02-13b2b14a.jpg",
@@ -1167,7 +1141,7 @@
    "at": "2026-12-11T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-a4fd8e2e.jpg",
     "02-df23dac6.jpg",
@@ -1188,7 +1162,7 @@
    "at": "2026-12-11T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-aec768ac.jpg",
     "02-ece748dd.jpg",
@@ -1209,7 +1183,7 @@
    "at": "2026-12-12T00:00:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-77019d9a.jpg",
     "02-366db62e.jpg",
@@ -1230,7 +1204,7 @@
    "at": "2026-12-12T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-f877ba51.jpg",
     "02-f1876123.jpg",
@@ -1263,7 +1237,7 @@
    "at": "2026-12-13T15:30:00Z",
    "status": "ready",
    "pages": "바뀜",
-   "new_jpg": 8,
+   "new_jpg": 0,
    "cards": [
     "01-6ee27827.jpg",
     "02-9d59329b.jpg",
