@@ -1,5 +1,5 @@
 {
- "at": "2026-11-14T12:41:17+00:00",
+ "at": "2026-11-15T01:06:23+00:00",
  "apply": true,
  "days": 30,
  "last_ready": "2026-12-14",
@@ -10,21 +10,7 @@
    "label": "Palavras 04 지하철 1/2",
    "key": "palavras_004",
    "at": "2026-11-14T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-022a8793.jpg",
-    "02-e6b74f50.jpg",
-    "03-2a9a45a5.jpg",
-    "04-053bd079.jpg",
-    "05-a14a21a8.jpg",
-    "06-276c6213.jpg",
-    "07-868ca9e5.jpg",
-    "08-10a425a9.jpg"
-   ],
-   "fp_same": true,
-   "wp": 2558
+   "status": "지남"
   },
   {
    "date": "2026-11-14",
@@ -32,21 +18,7 @@
    "label": "Palavras 04 지하철 2/2",
    "key": "palavras_004_2",
    "at": "2026-11-15T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-4a870b2f.jpg",
-    "02-22cb27b7.jpg",
-    "03-224855d5.jpg",
-    "04-af8bb43f.jpg",
-    "05-ba6d2fa0.jpg",
-    "06-e22cc16b.jpg",
-    "07-66525717.jpg",
-    "08-8f9cdc8b.jpg"
-   ],
-   "fp_same": true,
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-15",
