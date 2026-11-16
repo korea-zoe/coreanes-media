@@ -1,46 +1,16 @@
 {
- "at": "2026-11-15T01:11:07+00:00",
+ "at": "2026-11-16T01:06:25+00:00",
  "apply": true,
  "days": 30,
- "last_ready": "2026-12-14",
+ "last_ready": "2026-12-15",
  "rows": [
-  {
-   "date": "2026-11-14",
-   "slot": "am",
-   "label": "Palavras 04 지하철 1/2",
-   "key": "palavras_004",
-   "at": "2026-11-14T15:30:00Z",
-   "status": "지남"
-  },
-  {
-   "date": "2026-11-14",
-   "slot": "pm",
-   "label": "Palavras 04 지하철 2/2",
-   "key": "palavras_004_2",
-   "at": "2026-11-15T00:00:00Z",
-   "status": "지남"
-  },
   {
    "date": "2026-11-15",
    "slot": "am",
    "label": "Palavras revisão 01 1/2",
    "key": "palavras_rev01",
    "at": "2026-11-15T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-a3f52640.jpg",
-    "02-433a7f6c.jpg",
-    "03-f573c57e.jpg",
-    "04-73f5e549.jpg",
-    "05-ff89b9b8.jpg",
-    "06-6ad02236.jpg",
-    "07-0322ce45.jpg",
-    "08-aa8ce5ef.jpg"
-   ],
-   "fp_same": true,
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-15",
@@ -48,21 +18,7 @@
    "label": "Palavras revisão 01 2/2",
    "key": "palavras_rev01_2",
    "at": "2026-11-16T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-ec07a0ff.jpg",
-    "02-bbcc3bfa.jpg",
-    "03-95edbfea.jpg",
-    "04-8b5de706.jpg",
-    "05-b77db524.jpg",
-    "06-d6aad840.jpg",
-    "07-9eae713e.jpg",
-    "08-b3b5b3a2.jpg"
-   ],
-   "fp_same": true,
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-16",
@@ -1338,6 +1294,48 @@
     "08-f6a50e8a.jpg"
    ],
    "fp_same": true,
+   "wp": "—"
+  },
+  {
+   "date": "2026-12-15",
+   "slot": "am",
+   "label": "Palavras 31 부엌 1/2",
+   "key": "palavras_031",
+   "at": "2026-12-15T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-e3debec4.jpg",
+    "02-89cc6858.jpg",
+    "03-ddd3d8b4.jpg",
+    "04-ef550ec5.jpg",
+    "05-299496b6.jpg",
+    "06-576ed160.jpg",
+    "07-35ceaace.jpg",
+    "08-0154b912.jpg"
+   ],
+   "wp": 3442
+  },
+  {
+   "date": "2026-12-15",
+   "slot": "pm",
+   "label": "Palavras 31 부엌 2/2",
+   "key": "palavras_031_2",
+   "at": "2026-12-16T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-d628a5ef.jpg",
+    "02-eea8e2e5.jpg",
+    "03-cf79d034.jpg",
+    "04-181efc2b.jpg",
+    "05-43225b90.jpg",
+    "06-78d2f45b.jpg",
+    "07-bf92d0ea.jpg",
+    "08-fe9a6f15.jpg"
+   ],
    "wp": "—"
   }
  ]
