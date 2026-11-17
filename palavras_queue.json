@@ -1,46 +1,16 @@
 {
- "at": "2026-11-16T01:06:25+00:00",
+ "at": "2026-11-17T01:06:35+00:00",
  "apply": true,
  "days": 30,
- "last_ready": "2026-12-15",
+ "last_ready": "2026-12-16",
  "rows": [
-  {
-   "date": "2026-11-15",
-   "slot": "am",
-   "label": "Palavras revisão 01 1/2",
-   "key": "palavras_rev01",
-   "at": "2026-11-15T15:30:00Z",
-   "status": "지남"
-  },
-  {
-   "date": "2026-11-15",
-   "slot": "pm",
-   "label": "Palavras revisão 01 2/2",
-   "key": "palavras_rev01_2",
-   "at": "2026-11-16T00:00:00Z",
-   "status": "지남"
-  },
   {
    "date": "2026-11-16",
    "slot": "am",
    "label": "Palavras 05 숙소 1/2",
    "key": "palavras_005",
    "at": "2026-11-16T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-37c9f8ea.jpg",
-    "02-a4cba7e2.jpg",
-    "03-40583c8e.jpg",
-    "04-1d90f6ba.jpg",
-    "05-72f5e700.jpg",
-    "06-a81842cd.jpg",
-    "07-1d27ccf6.jpg",
-    "08-3f890474.jpg"
-   ],
-   "fp_same": true,
-   "wp": 2585
+   "status": "지남"
   },
   {
    "date": "2026-11-16",
@@ -48,21 +18,7 @@
    "label": "Palavras 05 숙소 2/2",
    "key": "palavras_005_2",
    "at": "2026-11-17T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-cd3583ad.jpg",
-    "02-51c8713c.jpg",
-    "03-a001538b.jpg",
-    "04-3554e604.jpg",
-    "05-01813125.jpg",
-    "06-75e3b837.jpg",
-    "07-1207d2eb.jpg",
-    "08-a4d9342b.jpg"
-   ],
-   "fp_same": true,
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-17",
@@ -1303,8 +1259,8 @@
    "key": "palavras_031",
    "at": "2026-12-15T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-e3debec4.jpg",
     "02-89cc6858.jpg",
@@ -1315,6 +1271,7 @@
     "07-35ceaace.jpg",
     "08-0154b912.jpg"
    ],
+   "fp_same": true,
    "wp": 3442
   },
   {
@@ -1324,8 +1281,8 @@
    "key": "palavras_031_2",
    "at": "2026-12-16T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-d628a5ef.jpg",
     "02-eea8e2e5.jpg",
@@ -1335,6 +1292,51 @@
     "06-78d2f45b.jpg",
     "07-bf92d0ea.jpg",
     "08-fe9a6f15.jpg"
+   ],
+   "fp_same": true,
+   "wp": "—"
+  },
+  {
+   "date": "2026-12-16",
+   "slot": "am",
+   "label": "Palavras 32 아침밥 1/2",
+   "key": "palavras_032",
+   "at": "2026-12-16T15:30:00Z",
+   "status": "error",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-f812bee4.jpg",
+    "02-27c0a365.jpg",
+    "03-b811c5c0.jpg",
+    "04-1ef51a51.jpg",
+    "05-ea8579f4.jpg",
+    "06-00d2f8d2.jpg",
+    "07-5f30bb9d.jpg",
+    "08-788362dc.jpg"
+   ],
+   "missing": [
+    "AttributeError: 'dict' object has no attribute 'replace'"
+   ]
+  },
+  {
+   "date": "2026-12-16",
+   "slot": "pm",
+   "label": "Palavras 32 아침밥 2/2",
+   "key": "palavras_032_2",
+   "at": "2026-12-17T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-2303d09e.jpg",
+    "02-baf7119f.jpg",
+    "03-465043c4.jpg",
+    "04-260a0879.jpg",
+    "05-28e889c0.jpg",
+    "06-01469ceb.jpg",
+    "07-f16cf235.jpg",
+    "08-694f47aa.jpg"
    ],
    "wp": "—"
   }
