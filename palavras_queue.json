@@ -1,46 +1,16 @@
 {
- "at": "2026-11-20T01:06:24+00:00",
+ "at": "2026-11-21T01:06:22+00:00",
  "apply": true,
  "days": 30,
- "last_ready": "2026-12-19",
+ "last_ready": "2026-12-20",
  "rows": [
-  {
-   "date": "2026-11-19",
-   "slot": "am",
-   "label": "Palavras 08 화장품 1/2",
-   "key": "palavras_008",
-   "at": "2026-11-19T15:30:00Z",
-   "status": "지남"
-  },
-  {
-   "date": "2026-11-19",
-   "slot": "pm",
-   "label": "Palavras 08 화장품 2/2",
-   "key": "palavras_008_2",
-   "at": "2026-11-20T00:00:00Z",
-   "status": "지남"
-  },
   {
    "date": "2026-11-20",
    "slot": "am",
    "label": "Palavras 09 동물 1/2",
    "key": "palavras_009",
    "at": "2026-11-20T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-76e637f2.jpg",
-    "02-0fe16eef.jpg",
-    "03-c1f76a8e.jpg",
-    "04-4d83d442.jpg",
-    "05-4ae815b2.jpg",
-    "06-59485353.jpg",
-    "07-d0c63e09.jpg",
-    "08-7f2a31bd.jpg"
-   ],
-   "fp_same": true,
-   "wp": 2711
+   "status": "지남"
   },
   {
    "date": "2026-11-20",
@@ -48,21 +18,7 @@
    "label": "Palavras 09 동물 2/2",
    "key": "palavras_009_2",
    "at": "2026-11-21T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-40167b86.jpg",
-    "02-6dd8d06d.jpg",
-    "03-f562937a.jpg",
-    "04-b25a35ea.jpg",
-    "05-13512f37.jpg",
-    "06-807a288b.jpg",
-    "07-ea985617.jpg",
-    "08-c0035768.jpg"
-   ],
-   "fp_same": true,
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-21",
@@ -1185,7 +1141,7 @@
    ],
    "fp_same": true,
    "missing": [
-    "AttributeError: 'dict' object has no attribute 'replace'"
+    "BudgetExceeded: p2_palavras_202611: 보낸 글자 27649 + 0 > 한도 8000 — 멈춤"
    ]
   },
   {
@@ -1305,8 +1261,8 @@
    "key": "palavras_035",
    "at": "2026-12-19T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-7340d472.jpg",
     "02-1a7afee8.jpg",
@@ -1317,6 +1273,7 @@
     "07-f2cd0251.jpg",
     "08-945477be.jpg"
    ],
+   "fp_same": true,
    "wp": 3570
   },
   {
@@ -1326,8 +1283,8 @@
    "key": "palavras_035_2",
    "at": "2026-12-20T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-16170214.jpg",
     "02-5b640c30.jpg",
@@ -1337,6 +1294,49 @@
     "06-80ce1d77.jpg",
     "07-2dd8aa9f.jpg",
     "08-8efd06ea.jpg"
+   ],
+   "fp_same": true,
+   "wp": "—"
+  },
+  {
+   "date": "2026-12-20",
+   "slot": "am",
+   "label": "Palavras revisão 06 1/2",
+   "key": "palavras_rev06",
+   "at": "2026-12-20T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-9699ce13.jpg",
+    "02-cf08aa7e.jpg",
+    "03-90803e79.jpg",
+    "04-39f7c3c6.jpg",
+    "05-c600dcfe.jpg",
+    "06-5c6a37d6.jpg",
+    "07-82c81be0.jpg",
+    "08-c535fe46.jpg"
+   ],
+   "wp": "—"
+  },
+  {
+   "date": "2026-12-20",
+   "slot": "pm",
+   "label": "Palavras revisão 06 2/2",
+   "key": "palavras_rev06_2",
+   "at": "2026-12-21T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-757450e6.jpg",
+    "02-40f91f17.jpg",
+    "03-d32759d7.jpg",
+    "04-33277ed5.jpg",
+    "05-93a1f6cf.jpg",
+    "06-7fc7b1a3.jpg",
+    "07-bc55512d.jpg",
+    "08-d93531d9.jpg"
    ],
    "wp": "—"
   }
