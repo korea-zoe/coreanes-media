@@ -1,46 +1,16 @@
 {
- "at": "2026-11-22T01:06:35+00:00",
+ "at": "2026-11-23T01:06:37+00:00",
  "apply": true,
  "days": 30,
- "last_ready": "2026-12-21",
+ "last_ready": "2026-12-22",
  "rows": [
-  {
-   "date": "2026-11-21",
-   "slot": "am",
-   "label": "Palavras 10 과일 1/2",
-   "key": "palavras_010",
-   "at": "2026-11-21T15:30:00Z",
-   "status": "지남"
-  },
-  {
-   "date": "2026-11-21",
-   "slot": "pm",
-   "label": "Palavras 10 과일 2/2",
-   "key": "palavras_010_2",
-   "at": "2026-11-22T00:00:00Z",
-   "status": "지남"
-  },
   {
    "date": "2026-11-22",
    "slot": "am",
    "label": "Palavras revisão 02 1/2",
    "key": "palavras_rev02",
    "at": "2026-11-22T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-f2337d47.jpg",
-    "02-c7173bbc.jpg",
-    "03-017ee70c.jpg",
-    "04-9889c2ac.jpg",
-    "05-b511978b.jpg",
-    "06-3b7bc777.jpg",
-    "07-d56fee7e.jpg",
-    "08-eab1dc0f.jpg"
-   ],
-   "fp_same": true,
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-22",
@@ -48,21 +18,7 @@
    "label": "Palavras revisão 02 2/2",
    "key": "palavras_rev02_2",
    "at": "2026-11-23T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-8978b84f.jpg",
-    "02-a5a18bc9.jpg",
-    "03-b7a060c9.jpg",
-    "04-4a8ef426.jpg",
-    "05-5fac45f2.jpg",
-    "06-2b9c7cc5.jpg",
-    "07-3db0c010.jpg",
-    "08-d909832d.jpg"
-   ],
-   "fp_same": true,
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-23",
@@ -1305,8 +1261,8 @@
    "key": "palavras_036",
    "at": "2026-12-21T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-9383a506.jpg",
     "02-23554021.jpg",
@@ -1317,6 +1273,7 @@
     "07-f6cc54ea.jpg",
     "08-9b641f4d.jpg"
    ],
+   "fp_same": true,
    "wp": 3603
   },
   {
@@ -1326,8 +1283,8 @@
    "key": "palavras_036_2",
    "at": "2026-12-22T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-f87bbec5.jpg",
     "02-72424868.jpg",
@@ -1337,6 +1294,49 @@
     "06-488bbf59.jpg",
     "07-623618d6.jpg",
     "08-ceebdf3c.jpg"
+   ],
+   "fp_same": true,
+   "wp": "—"
+  },
+  {
+   "date": "2026-12-22",
+   "slot": "am",
+   "label": "Palavras 37 한식 1/2",
+   "key": "palavras_037",
+   "at": "2026-12-22T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-140281ac.jpg",
+    "02-b5ebf1d3.jpg",
+    "03-d92cfc9c.jpg",
+    "04-bf66804a.jpg",
+    "05-6784a0c4.jpg",
+    "06-f440bf4f.jpg",
+    "07-9578ce52.jpg",
+    "08-540bf171.jpg"
+   ],
+   "wp": 3636
+  },
+  {
+   "date": "2026-12-22",
+   "slot": "pm",
+   "label": "Palavras 37 한식 2/2",
+   "key": "palavras_037_2",
+   "at": "2026-12-23T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-d051e787.jpg",
+    "02-14f5ca8e.jpg",
+    "03-b1fd4cc3.jpg",
+    "04-2cd4ae19.jpg",
+    "05-7d3787b9.jpg",
+    "06-f6d952d6.jpg",
+    "07-f6fd046e.jpg",
+    "08-6a7e89f3.jpg"
    ],
    "wp": "—"
   }
