@@ -1,46 +1,16 @@
 {
- "at": "2026-11-23T01:06:37+00:00",
+ "at": "2026-11-24T01:06:40+00:00",
  "apply": true,
  "days": 30,
- "last_ready": "2026-12-22",
+ "last_ready": "2026-12-23",
  "rows": [
-  {
-   "date": "2026-11-22",
-   "slot": "am",
-   "label": "Palavras revisão 02 1/2",
-   "key": "palavras_rev02",
-   "at": "2026-11-22T15:30:00Z",
-   "status": "지남"
-  },
-  {
-   "date": "2026-11-22",
-   "slot": "pm",
-   "label": "Palavras revisão 02 2/2",
-   "key": "palavras_rev02_2",
-   "at": "2026-11-23T00:00:00Z",
-   "status": "지남"
-  },
   {
    "date": "2026-11-23",
    "slot": "am",
    "label": "Palavras 11 겨울 옷 1/2",
    "key": "palavras_011",
    "at": "2026-11-23T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-14154fae.jpg",
-    "02-92e51c6b.jpg",
-    "03-a8756f15.jpg",
-    "04-43320024.jpg",
-    "05-e4110728.jpg",
-    "06-c11bb296.jpg",
-    "07-5180b315.jpg",
-    "08-6f44f56e.jpg"
-   ],
-   "fp_same": true,
-   "wp": 2777
+   "status": "지남"
   },
   {
    "date": "2026-11-23",
@@ -48,21 +18,7 @@
    "label": "Palavras 11 겨울 옷 2/2",
    "key": "palavras_011_2",
    "at": "2026-11-24T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-c49b284e.jpg",
-    "02-e8d4921f.jpg",
-    "03-955d9b50.jpg",
-    "04-a06a00e9.jpg",
-    "05-339f6976.jpg",
-    "06-ee8a0b14.jpg",
-    "07-fa59eeed.jpg",
-    "08-3f52f618.jpg"
-   ],
-   "fp_same": true,
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-24",
@@ -1305,8 +1261,8 @@
    "key": "palavras_037",
    "at": "2026-12-22T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-140281ac.jpg",
     "02-b5ebf1d3.jpg",
@@ -1317,6 +1273,7 @@
     "07-9578ce52.jpg",
     "08-540bf171.jpg"
    ],
+   "fp_same": true,
    "wp": 3636
   },
   {
@@ -1326,8 +1283,8 @@
    "key": "palavras_037_2",
    "at": "2026-12-23T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-d051e787.jpg",
     "02-14f5ca8e.jpg",
@@ -1337,6 +1294,49 @@
     "06-f6d952d6.jpg",
     "07-f6fd046e.jpg",
     "08-6a7e89f3.jpg"
+   ],
+   "fp_same": true,
+   "wp": "—"
+  },
+  {
+   "date": "2026-12-23",
+   "slot": "am",
+   "label": "Palavras 38 채소 1/2",
+   "key": "palavras_038",
+   "at": "2026-12-23T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-e2ca03aa.jpg",
+    "02-45d72297.jpg",
+    "03-9dd873d4.jpg",
+    "04-539bcfea.jpg",
+    "05-00797a2a.jpg",
+    "06-76861660.jpg",
+    "07-7ef1b6b4.jpg",
+    "08-791cd39a.jpg"
+   ],
+   "wp": 3669
+  },
+  {
+   "date": "2026-12-23",
+   "slot": "pm",
+   "label": "Palavras 38 채소 2/2",
+   "key": "palavras_038_2",
+   "at": "2026-12-24T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-53ab48e5.jpg",
+    "02-def2ef77.jpg",
+    "03-fcc6d8ea.jpg",
+    "04-be3be5d8.jpg",
+    "05-f69ff556.jpg",
+    "06-38c866e1.jpg",
+    "07-4d09b6f5.jpg",
+    "08-ab9e9bb7.jpg"
    ],
    "wp": "—"
   }
