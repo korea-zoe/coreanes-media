@@ -1,46 +1,16 @@
 {
- "at": "2026-11-24T01:06:40+00:00",
+ "at": "2026-11-25T01:06:26+00:00",
  "apply": true,
  "days": 30,
- "last_ready": "2026-12-23",
+ "last_ready": "2026-12-24",
  "rows": [
-  {
-   "date": "2026-11-23",
-   "slot": "am",
-   "label": "Palavras 11 겨울 옷 1/2",
-   "key": "palavras_011",
-   "at": "2026-11-23T15:30:00Z",
-   "status": "지남"
-  },
-  {
-   "date": "2026-11-23",
-   "slot": "pm",
-   "label": "Palavras 11 겨울 옷 2/2",
-   "key": "palavras_011_2",
-   "at": "2026-11-24T00:00:00Z",
-   "status": "지남"
-  },
   {
    "date": "2026-11-24",
    "slot": "am",
    "label": "Palavras 12 콘서트 1/2",
    "key": "palavras_012",
    "at": "2026-11-24T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-2267d031.jpg",
-    "02-cf6da1c0.jpg",
-    "03-8c1ef69b.jpg",
-    "04-e0b77893.jpg",
-    "05-b9b16dd8.jpg",
-    "06-85a8ac28.jpg",
-    "07-1ee38fb5.jpg",
-    "08-603621a1.jpg"
-   ],
-   "fp_same": true,
-   "wp": 2810
+   "status": "지남"
   },
   {
    "date": "2026-11-24",
@@ -48,21 +18,7 @@
    "label": "Palavras 12 콘서트 2/2",
    "key": "palavras_012_2",
    "at": "2026-11-25T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-da32ad41.jpg",
-    "02-50c05bf7.jpg",
-    "03-6da586f3.jpg",
-    "04-d572f62c.jpg",
-    "05-210f4582.jpg",
-    "06-10445c71.jpg",
-    "07-2c273e4d.jpg",
-    "08-c1230cb6.jpg"
-   ],
-   "fp_same": true,
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-25",
@@ -1009,7 +965,7 @@
    ],
    "fp_same": true,
    "missing": [
-    "BudgetExceeded: p2_palavras_202611: 보낸 글자 27649 + 0 > 한도 8000 — 멈춤"
+    "BudgetExceeded: p2_palavras_202611: 보낸 글자 35397 + 0 > 한도 8000 — 멈춤"
    ]
   },
   {
@@ -1305,8 +1261,8 @@
    "key": "palavras_038",
    "at": "2026-12-23T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-e2ca03aa.jpg",
     "02-45d72297.jpg",
@@ -1317,6 +1273,7 @@
     "07-7ef1b6b4.jpg",
     "08-791cd39a.jpg"
    ],
+   "fp_same": true,
    "wp": 3669
   },
   {
@@ -1326,8 +1283,8 @@
    "key": "palavras_038_2",
    "at": "2026-12-24T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-53ab48e5.jpg",
     "02-def2ef77.jpg",
@@ -1337,6 +1294,49 @@
     "06-38c866e1.jpg",
     "07-4d09b6f5.jpg",
     "08-ab9e9bb7.jpg"
+   ],
+   "fp_same": true,
+   "wp": "—"
+  },
+  {
+   "date": "2026-12-24",
+   "slot": "am",
+   "label": "Palavras 30 크리스마스 1/2",
+   "key": "palavras_030",
+   "at": "2026-12-24T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-179b771f.jpg",
+    "02-812d5b32.jpg",
+    "03-1a6f46da.jpg",
+    "04-fc66e981.jpg",
+    "05-c81ea836.jpg",
+    "06-61600b23.jpg",
+    "07-f540b985.jpg",
+    "08-0f9ff9b8.jpg"
+   ],
+   "wp": 3702
+  },
+  {
+   "date": "2026-12-24",
+   "slot": "pm",
+   "label": "Palavras 30 크리스마스 2/2",
+   "key": "palavras_030_2",
+   "at": "2026-12-25T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-00dd4ce7.jpg",
+    "02-8472dc4d.jpg",
+    "03-25ff248d.jpg",
+    "04-05ebb09a.jpg",
+    "05-ce9d3a12.jpg",
+    "06-cd5b83e0.jpg",
+    "07-5ce4010d.jpg",
+    "08-eef2a495.jpg"
    ],
    "wp": "—"
   }
