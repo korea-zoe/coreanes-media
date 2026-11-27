@@ -1,46 +1,16 @@
 {
- "at": "2026-11-26T01:06:14+00:00",
+ "at": "2026-11-27T01:06:57+00:00",
  "apply": true,
  "days": 30,
- "last_ready": "2026-12-25",
+ "last_ready": "2026-12-26",
  "rows": [
-  {
-   "date": "2026-11-25",
-   "slot": "am",
-   "label": "Palavras 13 가족 1/2",
-   "key": "palavras_013",
-   "at": "2026-11-25T15:30:00Z",
-   "status": "지남"
-  },
-  {
-   "date": "2026-11-25",
-   "slot": "pm",
-   "label": "Palavras 13 가족 2/2",
-   "key": "palavras_013_2",
-   "at": "2026-11-26T00:00:00Z",
-   "status": "지남"
-  },
   {
    "date": "2026-11-26",
    "slot": "am",
    "label": "Palavras 14 밥상 1/2",
    "key": "palavras_014",
    "at": "2026-11-26T15:30:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-9d6a338e.jpg",
-    "02-e5f560d9.jpg",
-    "03-761d3f9a.jpg",
-    "04-44bb0e87.jpg",
-    "05-7da77a2a.jpg",
-    "06-26718237.jpg",
-    "07-1a7ccdea.jpg",
-    "08-6466cf89.jpg"
-   ],
-   "fp_same": true,
-   "wp": 2876
+   "status": "지남"
   },
   {
    "date": "2026-11-26",
@@ -48,21 +18,7 @@
    "label": "Palavras 14 밥상 2/2",
    "key": "palavras_014_2",
    "at": "2026-11-27T00:00:00Z",
-   "status": "ready",
-   "pages": "그대로",
-   "new_jpg": 0,
-   "cards": [
-    "01-b15f070b.jpg",
-    "02-ee0fb2c9.jpg",
-    "03-bd8161c1.jpg",
-    "04-cee78ee6.jpg",
-    "05-d2076aa9.jpg",
-    "06-fe286423.jpg",
-    "07-ed46438f.jpg",
-    "08-455b2bd0.jpg"
-   ],
-   "fp_same": true,
-   "wp": "—"
+   "status": "지남"
   },
   {
    "date": "2026-11-27",
@@ -1305,8 +1261,8 @@
    "key": "palavras_039",
    "at": "2026-12-25T15:30:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-68c7ba32.jpg",
     "02-9b119891.jpg",
@@ -1317,6 +1273,7 @@
     "07-c9efbc9f.jpg",
     "08-f9864f17.jpg"
    ],
+   "fp_same": true,
    "wp": 3735
   },
   {
@@ -1326,8 +1283,8 @@
    "key": "palavras_039_2",
    "at": "2026-12-26T00:00:00Z",
    "status": "ready",
-   "pages": "바뀜",
-   "new_jpg": 8,
+   "pages": "그대로",
+   "new_jpg": 0,
    "cards": [
     "01-d1d97f90.jpg",
     "02-d23e17d5.jpg",
@@ -1337,6 +1294,49 @@
     "06-17195628.jpg",
     "07-c3075e95.jpg",
     "08-42a8ce7c.jpg"
+   ],
+   "fp_same": true,
+   "wp": "—"
+  },
+  {
+   "date": "2026-12-26",
+   "slot": "am",
+   "label": "Palavras 41 농장 동물 1/2",
+   "key": "palavras_041",
+   "at": "2026-12-26T15:30:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-84fad6e8.jpg",
+    "02-49b39fef.jpg",
+    "03-506a16f7.jpg",
+    "04-768e5e19.jpg",
+    "05-305938ee.jpg",
+    "06-169a192c.jpg",
+    "07-1e74f27b.jpg",
+    "08-0d6b7976.jpg"
+   ],
+   "wp": 3768
+  },
+  {
+   "date": "2026-12-26",
+   "slot": "pm",
+   "label": "Palavras 41 농장 동물 2/2",
+   "key": "palavras_041_2",
+   "at": "2026-12-27T00:00:00Z",
+   "status": "ready",
+   "pages": "바뀜",
+   "new_jpg": 8,
+   "cards": [
+    "01-bd0cd02d.jpg",
+    "02-4adf71fa.jpg",
+    "03-dbec5d62.jpg",
+    "04-c7068a71.jpg",
+    "05-85eac0da.jpg",
+    "06-361351b5.jpg",
+    "07-dd3e2fe8.jpg",
+    "08-63688da5.jpg"
    ],
    "wp": "—"
   }
